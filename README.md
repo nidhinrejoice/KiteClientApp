@@ -1,5 +1,14 @@
 # Kite Client
 
+<img width="1080" height="2400" alt="Screenshot_20261024_214114" src="https://github.com/user-attachments/assets/8a64c2a5-2452-4629-a1a7-b337bcba3a55" />
+<img width="1080" height="2400" alt="Screenshot_20261024_214126" src="https://github.com/user-attachments/assets/d6c22eef-4b61-4aa3-ac30-0285c5d14b03" />
+<img width="1080" height="2400" alt="Screenshot_20261024_214140" src="https://github.com/user-attachments/assets/633fb41c-6ece-4156-b076-830f846a4f8e" />
+<img width="1080" height="2400" alt="Screenshot_20261024_214146" src="https://github.com/user-attachments/assets/f6207897-37b8-4d1a-af48-eb063c821ee6" />
+<img width="1080" height="2400" alt="Screenshot_20261024_214208" src="https://github.com/user-attachments/assets/f8092f72-076a-432c-990a-f195e37d97ec" />
+<img width="1080" height="2400" alt="Screenshot_20261024_214313" src="https://github.com/user-attachments/assets/bff6f14a-b512-4a83-8770-b56c239eba7b" />
+<img width="1080" height="2400" alt="Screenshot_20261024_214330" src="https://github.com/user-attachments/assets/06f8b15b-0885-45e9-8e2f-5554442aea5e" />
+
+
 Android client for viewing a Zerodha/Kite portfolio. Built with Jetpack Compose, MVI, Hilt, coroutines, Retrofit, and decimal monetary calculations. Open the project in Android Studio and run `app`. **Explore a demo portfolio** works without configuration; demo prices are explicitly labeled sample data.
 
 ## Architecture
